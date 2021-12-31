@@ -2545,14 +2545,14 @@ input, select, textarea {
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		background-color: #cc99ff;
-		border-radius: 3px;
+		border-radius: 5px;
 		border: 0;
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 500;
-		height: 3em;
-		line-height: 3em;
+		height: 2.75em;
+		line-height: 2.75em;
 		padding: 0 1.5em;
 		text-align: center;
 		text-decoration: none;
