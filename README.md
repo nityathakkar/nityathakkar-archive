@@ -1,3 +1,3 @@
 # nityathakkar.github.io
 
-my personal website
+Nitya Thakkar's personal website
