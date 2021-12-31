@@ -111,7 +111,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: solid 1px #cc99ff;
-		color: #cc99ff;
+		color: #222;
 		text-decoration: none;
 	}
 
@@ -2750,7 +2750,7 @@ input, select, textarea {
 		}
 
 		#header a {
-			color: #EBD7FF;
+			color: #cc99ff;
 		}
 
 			#header a:hover {
