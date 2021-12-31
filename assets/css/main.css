@@ -2545,14 +2545,14 @@ input, select, textarea {
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		background-color: #cc99ff;
-		border-radius: 3px;
+		border-radius: 2px;
 		border: 0;
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
-		font-weight: 500;
-		height: 2em;
-		line-height: 2em;
+		font-weight: 300;
+		height: 1em;
+		line-height: 1em;
 		padding: 0 1.5em;
 		text-align: center;
 		text-decoration: none;
@@ -2599,14 +2599,14 @@ input, select, textarea {
 		input[type="reset"].small,
 		input[type="button"].small,
 		.button.small {
-			font-size: 0.5em;
+			font-size: 0.4em;
 		}
 
 		input[type="submit"].large,
 		input[type="reset"].large,
 		input[type="button"].large,
 		.button.large {
-			font-size: 1em;
+			font-size: 0.8em;
 		}
 
 		input[type="submit"].alt,
