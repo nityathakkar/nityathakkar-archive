@@ -134,7 +134,7 @@ input, select, textarea {
 	}
 
 	h1, h2 {
-		color: #C083FC;
+		color: #b266ff;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -1811,7 +1811,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #9933ff;
+		color: #b266ff;
 		font-size: 3.5em;
 	}
 
@@ -2798,7 +2798,7 @@ input, select, textarea {
 			}
 
 				#header > footer .icons li a {
-					color: #e5ccff;
+					color: #ffffff;
 				}
 
 		#header > nav {
