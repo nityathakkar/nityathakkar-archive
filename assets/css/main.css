@@ -134,7 +134,8 @@ input, select, textarea {
 	}
 
 	h1, h2 {
-		color: #b266ff;
+		/* color: #b266ff; */
+		color: #333;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -1812,6 +1813,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
+		/* color: #b266ff; */
 		color: #333;
 		font-size: 3.5em;
 	}
